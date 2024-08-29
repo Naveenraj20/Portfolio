@@ -427,6 +427,9 @@ h3 {
 .todolist_project {
   background-image: url(todoimage.webp);
 }
+.fruitshop_project{
+    background-image: url(Fruit-shop-img.webp);
+}
 .visit-tag {
   font-size: small;
   font-family: monospace;
